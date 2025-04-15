@@ -20,5 +20,6 @@ public class Main {
         System.out.println(p.product(11.5, 12.6));
 
 
+
     }
 }
